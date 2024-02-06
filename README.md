@@ -18,4 +18,6 @@ Start up your minecraft
 
 Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy.
 
-Download
+Download here:
+
+https://github.com/FortnitePlayer11/ChromaHUD/releases/tag/release
